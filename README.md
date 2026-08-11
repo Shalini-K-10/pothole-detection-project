@@ -16,4 +16,4 @@ and classifies road condition as Good, Damaged, or Severely Damaged.
 - mAP50-95: 0.300
 
 ## How to Run
-Open `Pothole_Detection_Project.ipynb` in Google Colab and run all cells in order.
+Open `Pothole_Detection_YOLOv8.ipynb` in Google Colab and run all cells in order.
